@@ -3,7 +3,7 @@
     "key1": {
       "type": "trial",
       "expiry": "2024-12-31T23:59:59",
-      "used": false
+      "used": true
     },
     "key2": {
       "type": "permanent",
