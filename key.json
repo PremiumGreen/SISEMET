@@ -3,7 +3,7 @@
     "NgDzz": {
       "type": "trial",
       "expiry": "2025-12-31T23:59:59",
-      "used": true
+      "used": false
     },
     "NgHuy12": {
       "type": "permanent",
